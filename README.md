@@ -10,7 +10,7 @@ How to get started?
     * 2. Articles may be saved or deleted.
     
 # What is the purpose of this project?
-   * The purpose of this project is allow users scrape article headlines from the Chicago Tribune site without
+   * The purpose of this project is allow users scrape article headlines from the Tribune site without
      relying on API usage.
    
 # Technology usage:
