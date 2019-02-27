@@ -4,7 +4,7 @@
 How to get started?
 
    * Since the project is deployed on heroku you can visit it by 
-    [CLICKING HERE](https://chicagotribune.herokuapp.com/)
+    [CLICKING HERE](https://webtribune.herokuapp.com/)
     
     * 1. Click on scrape new articles to generate and populate the list.
     * 2. Articles may be saved or deleted.
