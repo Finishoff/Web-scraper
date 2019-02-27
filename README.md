@@ -1,5 +1,5 @@
 # Web Scraper
-![Screenshot of app](https://github.com/THE-group-project/project2/blob/master/public/images/preview.png)
+![Screenshot of app](https://github.com/Finishoff/Webscrape/blob/master/public/assets/images/demo.png)
 
 How to get started?
 
