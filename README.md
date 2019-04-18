@@ -15,4 +15,4 @@ How to get started?
    
 # Technology usage:
   * This project utitlizes NPMs: body-parser, cherrio, express, handlebars, mongoose & request.
-  * MongoDB is used to store data retrieved from scrapping and saving articles
+  * MongoDB is used to store data retrieved from scrapping and saving articles to display
